@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesCompose</string>
+    <string name="save_note">Save note.</string>
+    <string name="go_back">Go back.</string>
+    <string name="add_new_note">Add new note.</string>
+    <string name="title">Title</string>
+    <string name="content">Content…</string>
+    <string name="search">Search…</string>
+    <string name="app_logo">App logo.</string>
+    <string name="close_delete_mode">Close delete mode.</string>
+    <string name="delete_selected_notes">Delete selected notes.</string>
+</resources>
